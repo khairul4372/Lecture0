@@ -1,0 +1,35 @@
+form{
+  padding: 10px;
+  border: 2px
+}
+table{
+  border: 2px black solid;
+  border-collapse: collapse;
+  border-radius: 10px;
+  width: 30%;
+  text-align: center;
+  padding: 15px
+}
+th , td{
+  border: 2px black solid;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px
+}
+h1{
+  color: red;
+  font-family: sans-serif;
+  font-size: 59px;
+  font-weight: 200;
+  border: 2px solid blue
+}
+ul{
+  border: 1px blue solid;
+  border-radius: 5
+}
+
+form{
+  padding: 20px;
+  border: 2px red solid;
+  border-radius: 10px
+}
